@@ -84,9 +84,11 @@
     {
       "id": 1,
       "category": "",
-      "title": "Free Fire Encode Json merupakan metode pengubahan bentuk data url json",
+      "title": "Dasar Pinjaman",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/posts/free-fire.jpg",
-      "content": "https://raw.githubusercontent.com/solodroidev/content/uploads/html/guide/free-fire.html",
+      "content": "<p>Panduan ini menjelaskan dasar-dasar pinjaman dengan bahasa sederhana dan contoh nyata. Kamu akan melihat bagaimana pokok, bunga, dan tenor saling memengaruhi cicilan bulanan serta total biaya.</p>
+<p>Pokok adalah jumlah yang kamu pinjam. Bunga adalah biaya meminjam. Tenor adalah lamanya waktu pelunasan. Tenor yang lebih panjang bisa menurunkan cicilan, tetapi biasanya menaikkan total bunga yang dibayar.</p>
+<p>Sebelum mengajukan, bandingkan minimal tiga penyedia. Jangan hanya lihat bunga di iklan—cek juga biaya admin, biaya provisi, denda terlambat, dan aturan pelunasan dipercepat agar paham total biaya sebenarnya.</p>",
       "video": ""
     },
     {
@@ -180,6 +182,7 @@
   ]
 
 }
+
 
 
 
