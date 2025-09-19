@@ -84,19 +84,70 @@
     {
       "id": 1,
       "category": "",
-      "title": "Dasar Pinjaman",
+      "title": "Pengertian dan Dasar-Dasar Pinjaman Online",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/posts/free-fire.jpg",
-      "content": "<p>Panduan ini menjelaskan dasar-dasar pinjaman dengan bahasa sederhana dan contoh nyata. Kamu akan melihat bagaimana pokok, bunga, dan tenor saling memengaruhi cicilan bulanan serta total biaya.</p>
-<p>Pokok adalah jumlah yang kamu pinjam. Bunga adalah biaya meminjam. Tenor adalah lamanya waktu pelunasan. Tenor yang lebih panjang bisa menurunkan cicilan, tetapi biasanya menaikkan total bunga yang dibayar.</p>
-<p>Sebelum mengajukan, bandingkan minimal tiga penyedia. Jangan hanya lihat bunga di iklan—cek juga biaya admin, biaya provisi, denda terlambat, dan aturan pelunasan dipercepat agar paham total biaya sebenarnya.</p>",
+      "content": "<p><strong>Apa Itu Pinjaman Online? Pengertian dan Dasar-Dasarnya</strong></p>
+<p>Artikel ini membahas secara menyeluruh tentang pinjaman online: pengertian, cara kerja, komponen biaya, proses pengajuan, hingga risiko dan etika penagihan. Tujuannya edukasi—bukan promosi pinjaman—agar kamu paham sebelum memutuskan.</p>
+<p><strong>Definisi singkat.</strong> Pinjaman online adalah fasilitas pembiayaan yang diajukan dan diproses melalui internet (aplikasi/website) tanpa tatap muka langsung. Kamu menerima dana, lalu mengembalikannya dalam jangka waktu tertentu beserta biaya (bunga dan/atau biaya lain) sesuai perjanjian.</p>
+<p><strong>Bagaimana cara kerjanya?</strong> Kamu membuat akun, melengkapi data, mengunggah dokumen, melewati verifikasi (eKYC), dinilai risikonya (credit scoring), menerima keputusan (disetujui/ditolak), menandatangani perjanjian elektronik, dan dana dicairkan ke rekening. Setelah itu kamu mencicil hingga lunas.</p>
+<p><strong>Pemain utama dalam ekosistem.</strong> Ada peminjam (debitur), pemberi pinjaman/lembaga pembiayaan, penyelenggara platform (aplikasi), regulator/pengawas, dan pihak ketiga pendukung seperti biro kredit, penyedia eKYC, serta mitra penagihan.</p>
+<p><strong>Jenis penggunaan.</strong> Umumnya pinjaman online bersifat konsumtif (kebutuhan pribadi, darurat) atau produktif (modal usaha kecil, inventori). Pilih sesuai tujuan jelas dan kemampuan bayar.</p>
+<p><strong>Perbedaan kanal.</strong> Pinjaman online dapat disalurkan oleh bank digital, perusahaan pembiayaan, atau platform fintech. Setiap kanal membawa kebijakan biaya, proses, dan persyaratan yang berbeda.</p>
+<p><strong>Legal vs ilegal.</strong> Penyelenggara legal beroperasi dengan izin/terdaftar/di bawah pengawasan regulator, menerapkan standar transparansi biaya, perlindungan data, dan etika penagihan. Pihak ilegal cenderung tidak transparan, bunga/biaya tak jelas, akses data berlebihan, dan praktik penagihan menekan.</p>
+<p><strong>Memeriksa legalitas.</strong> Pastikan penyelenggara tercantum di sumber resmi regulator, memiliki identitas jelas (nama badan hukum, alamat kantor), saluran layanan konsumen, dan perjanjian yang mudah diakses serta dipahami.</p>
+<p><strong>Komponen biaya: bunga.</strong> Bunga adalah harga atas dana yang dipinjam. Penyajian bisa harian, bulanan, atau tahunan. Selalu konversi ke tingkat tahunan (APR) agar bisa membandingkan antar penyedia secara adil.</p>
+<p><strong>Komponen biaya: administrasi & provisi.</strong> Biaya administrasi dan/atau provisi bisa dipotong di depan (upfront) atau digabung dalam cicilan. Biaya ini sah jika dicantumkan jelas, tidak disembunyikan, dan tercantum di perjanjian.</p>
+<p><strong>Komponen biaya: layanan/platform.</strong> Beberapa platform mengenakan service fee untuk pemrosesan dan pemeliharaan layanan. Pastikan kamu memahami besarannya dan bagaimana cara perhitungannya.</p>
+<p><strong>Komponen biaya: asuransi kredit.</strong> Ada produk yang mewajibkan asuransi untuk melindungi risiko tertentu. Tanyakan manfaat, masa berlaku, dan biayanya, serta apakah wajib atau opsional.</p>
+<p><strong>Komponen biaya: keterlambatan.</strong> Denda atau penalti keterlambatan dikenakan jika pembayaran lewat jatuh tempo. Ketahui kapan denda mulai berlaku, besarannya, dan apakah ada masa tenggang (grace period).</p>
+<p><strong>Contoh sederhana—skema flat.</strong> Jika meminjam Rp3.000.000 dengan bunga flat 2%/bulan selama 6 bulan: bunga per bulan = 2% × 3.000.000 = Rp60.000. Total bunga 6 bulan = Rp360.000. Pokok per bulan = 3.000.000 ÷ 6 = Rp500.000. Estimasi cicilan per bulan ≈ Rp560.000 (belum termasuk biaya lain).</p>
+<p><strong>Contoh ringkas—skema efektif/anuitas.</strong> Pada skema efektif/anuitas, bunga dihitung dari sisa pokok—cicilan bisa menurun (efektif) atau relatif tetap (anuitas). Total bunga umumnya berbeda dibanding skema flat untuk parameter yang sama.</p>
+<p><strong>APR (Annual Percentage Rate).</strong> APR adalah gambaran biaya total tahunan (bunga + biaya wajib lain) yang memudahkan perbandingan lintas produk. Minta atau hitung APR sebagai “angka pembanding” yang konsisten.</p>
+<p><strong>Tenor dan dampaknya.</strong> Tenor panjang menurunkan cicilan bulanan namun biasanya menaikkan total biaya karena akumulasi bunga. Tenor pendek menekan total bunga tetapi cicilan bulanan lebih besar. Pilih sesuai arus kas.</p>
+<p><strong>Plafon dan limit.</strong> Plafon adalah jumlah maksimum yang dapat dipinjam. Limit yang ditawarkan tergantung profil risiko, data penghasilan, riwayat kredit, dan kebijakan internal penyelenggara.</p>
+<p><strong>Persyaratan umum.</strong> Umumnya: WNI dengan identitas resmi, usia minimum tertentu, rekening bank atas nama sendiri, penghasilan atau bukti kegiatan produktif, serta alamat/nomor kontak yang valid. Detail dapat berbeda antar penyelenggara.</p>
+<p><strong>Verifikasi (eKYC).</strong> Proses eKYC meliputi foto KTP, swafoto (face match), verifikasi nomor ponsel, dan kadang verifikasi rekening. Tujuannya mencegah penyalahgunaan identitas dan memenuhi standar kepatuhan.</p>
+<p><strong>Penilaian risiko (credit scoring).</strong> Skor kredit menilai kemungkinan kamu membayar tepat waktu berdasarkan data identitas, penghasilan, histori kredit, perilaku transaksi, dan variabel lain yang diizinkan. Skor tidak hanya “diterima/ditolak,” tetapi juga memengaruhi plafon, bunga, dan tenor.</p>
+<p><strong>Alur pengajuan—langkah demi langkah.</strong> (1) Unduh aplikasi/kunjungi situs; (2) registrasi dan setujui kebijakan; (3) isi data & unggah dokumen; (4) verifikasi eKYC; (5) tunggu analisis; (6) terima keputusan & pelajari perjanjian; (7) tanda tangan elektronik; (8) pencairan dana; (9) mulai cicilan sesuai jadwal.</p>
+<p><strong>Pencairan & potongan di muka.</strong> Beberapa biaya dipotong dari dana cair (misalnya provisi). Contoh: disetujui Rp3.000.000, potongan Rp150.000, dana masuk rekening Rp2.850.000. Namun kewajiban yang dihitung biasanya tetap berdasarkan jumlah disetujui.</p>
+<p><strong>Hak dan kewajiban debitur.</strong> Kamu berhak atas informasi jujur, jelas, dan tidak menyesatkan; juga berhak menyampaikan keluhan. Kamu berkewajiban memberi data benar, membayar tepat waktu, dan mematuhi perjanjian.</p>
+<p><strong>Transparansi informasi.</strong> Pastikan sebelum menekan “setuju” kamu sudah membaca seluruh ringkasan produk: bunga, biaya, tenor, total pembayaran, tanggal jatuh tempo, denda, dan kebijakan pelunasan dipercepat.</p>
+<p><strong>Etika penagihan.</strong> Penagihan wajib mengikuti etika yang wajar, pada jam yang pantas, tidak mengancam atau mempermalukan. Saluran penagihan resmi harus tercantum, dan kamu berhak menolak akses kontak pihak ketiga yang tidak relevan jika tidak ada dasar hukumnya.</p>
+<p><strong>Keamanan data & privasi.</strong> Aplikasi seharusnya hanya meminta izin yang relevan (kamera untuk eKYC, misalnya) dan menjelaskan tujuan penggunaan data. Hindari aplikasi yang meminta izin akses berlebihan tanpa alasan jelas.</p>
+<p><strong>Tanda bahaya (red flags).</strong> Janji “pasti cair” tanpa evaluasi; bunga/biaya tidak tertulis; tekanan untuk memberikan kode OTP; link pembayaran tidak resmi; akun layanan pelanggan anonim; penagihan kasar bahkan sebelum jatuh tempo; permintaan akses data yang tidak proporsional.</p>
+<p><strong>Manajemen kemampuan bayar.</strong> Aturan praktis: total cicilan semua pinjaman sebaiknya tidak melebihi sekitar 30–35% penghasilan bulanan tetap. Jika melampaui, pertimbangkan restrukturisasi, memperpanjang tenor, atau menunda pengajuan.</p>
+<p><strong>Penggunaan yang bertanggung jawab.</strong> Prioritaskan kebutuhan penting, siapkan dana darurat, dan gunakan pinjaman untuk tujuan yang jelas. Hindari “gali lubang tutup lubang” yang memperburuk beban biaya.</p>
+<p><strong>Alternatif selain pinjaman.</strong> Negosiasikan tempo pembayaran dengan pihak terkait, gunakan tabungan, jual aset yang tidak produktif, atau cari sumber pendapatan tambahan sebelum mengambil utang baru.</p>
+<p><strong>Pertanyaan umum.</strong> “Apakah bunga harian selalu mahal?”—Tergantung APR total. “Bolehkah pelunasan dipercepat?”—Cek perjanjian, sebagian mengenakan penalti. “Kapan data saya dihapus?”—Lihat kebijakan retensi data di kebijakan privasi.</p>
+<p><strong>Ringkasan akhir.</strong> Pinjaman online memudahkan akses dana, tetapi memerlukan literasi keuangan yang baik. Pahami biaya total, tenor, dan kemampuan bayar. Selalu gunakan penyelenggara yang sah, baca perjanjian, dan jaga privasi datamu.</p>
+<p><em>Disclaimer:</em> Artikel ini bersifat edukasi umum, bukan saran keuangan yang dipersonalisasi dan bukan penawaran pinjaman. Selalu verifikasi informasi resmi, bandingkan beberapa penyedia, dan ambil keputusan dengan pertimbangan matang.</p>
+",
       "video": ""
     },
     {
       "id": 2,
       "category": "",
-      "title": "IKEA",
+      "title": "Syarat Umum yang Wajib Dipenuhi Saat Mengajukan Pinjaman Online",
       "image": "https://img.youtube.com/vi/EyH2rXSE6mM/mqdefault.jpg",
-      "content": "<p>This tutorial video is the exact opposite of the previous one about becoming more confident in public speaking. This is a finely drawn topic. It’s not how to put a bed frame together, it’s how to put the IKEA Malm bed frame together.</p><p>There’s no voiceover, the only audio in this tutorial video is the background music. But the audience is never left feeling lost for instruction. There are strategic callouts, which give tips and names of the specific parts being used. It’s a clever solution to a potentially dull voiceover detailing where to put screws.</p>",
+      "content": "<p><strong>Syarat Umum yang Wajib Dipenuhi Saat Mengajukan Pinjaman Online</strong></p>
+<p>Setiap penyelenggara pinjaman online memiliki aturan sendiri, namun pada dasarnya ada sejumlah syarat umum yang hampir selalu diminta. Mengetahui dan mempersiapkan syarat ini sejak awal akan mempercepat proses pengajuan dan meningkatkan peluang persetujuan.</p>
+<p><strong>Identitas resmi sebagai dasar utama.</strong> Hampir semua penyelenggara mewajibkan debitur memiliki identitas sah, seperti KTP untuk WNI. Nomor identitas digunakan sebagai kunci verifikasi dan pengecekan di biro kredit. Tanpa identitas valid, pengajuan tidak dapat diproses.</p>
+<p><strong>Usia minimum dan maksimum.</strong> Umumnya debitur harus berusia minimal 18 tahun atau sesuai ketentuan hukum, dengan batas maksimal tertentu (misalnya 55–60 tahun) pada saat pinjaman berakhir. Hal ini untuk memastikan debitur sudah cakap hukum dan memiliki kemampuan bayar.</p>
+<p><strong>Nomor ponsel aktif.</strong> Nomor telepon yang aktif dan dapat dihubungi adalah syarat mutlak. Nomor ini akan dipakai untuk verifikasi (OTP), komunikasi status pengajuan, dan pengingat jatuh tempo. Gunakan nomor pribadi, bukan nomor sekali pakai.</p>
+<p><strong>Rekening bank atas nama sendiri.</strong> Dana pinjaman hanya dapat dicairkan ke rekening bank atas nama pemohon. Hal ini untuk mencegah penyalahgunaan dan memastikan pencairan tepat sasaran. Jika rekening berbeda nama, kemungkinan besar pengajuan ditolak.</p>
+<p><strong>Alamat domisili jelas.</strong> Penyelenggara akan meminta alamat tempat tinggal yang valid. Beberapa bisa meminta bukti berupa tagihan listrik, air, atau dokumen lain. Tujuannya memastikan keberadaan debitur dapat diverifikasi.</p>
+<p><strong>Penghasilan atau kegiatan produktif.</strong> Syarat lain yang umum adalah bukti penghasilan. Ini bisa berupa slip gaji, mutasi rekening, atau keterangan usaha. Bagi pekerja informal, mutasi rekening atau catatan transaksi sering dijadikan dasar penilaian.</p>
+<p><strong>Dokumen tambahan yang mungkin diminta.</strong> Beberapa penyelenggara meminta dokumen tambahan seperti NPWP, BPJS, atau surat keterangan kerja. Meski tidak selalu wajib, dokumen tambahan dapat memperkuat profil pengajuanmu.</p>
+<p><strong>Foto diri (swafoto).</strong> Proses verifikasi elektronik (eKYC) umumnya mewajibkan swafoto dengan KTP atau wajah saja. Tujuannya memastikan pemohon benar-benar pemilik identitas dan mencegah penggunaan identitas palsu.</p>
+<p><strong>Email aktif.</strong> Selain nomor ponsel, penyelenggara sering meminta alamat email aktif sebagai media komunikasi tambahan, pengiriman perjanjian, dan bukti transaksi. Pastikan email yang digunakan rutin dicek.</p>
+<p><strong>Riwayat kredit yang bersih.</strong> Skor kredit yang baik di biro kredit atau SLIK OJK meningkatkan peluang disetujui. Jika punya catatan gagal bayar atau tunggakan, hal itu bisa memengaruhi hasil analisis risiko penyelenggara.</p>
+<p><strong>Persetujuan kebijakan privasi.</strong> Sebelum mengajukan, kamu wajib membaca dan menyetujui kebijakan privasi serta syarat dan ketentuan layanan. Persetujuan ini biasanya dalam bentuk tanda tangan elektronik atau centang digital.</p>
+<p><strong>Kapasitas membayar.</strong> Meski tidak selalu diminta dokumen formal, penyelenggara menilai kemampuan bayar dari data yang kamu masukkan, histori transaksi, hingga perilaku keuangan. Jika data menunjukkan rasio cicilan terlalu tinggi, pengajuan bisa ditolak.</p>
+<p><strong>Syarat khusus untuk pinjaman produktif.</strong> Jika pinjaman untuk modal usaha, beberapa penyelenggara mungkin meminta data usaha, SIUP/NIB, atau bukti transaksi bisnis. Ini untuk menilai kelayakan usaha dan prospek arus kas.</p>
+<p><strong>Pemeriksaan internal.</strong> Setelah syarat dasar dipenuhi, penyelenggara akan melakukan pengecekan internal: mencocokkan data, menilai skor, dan memverifikasi dokumen. Jika semua sesuai, barulah pengajuan masuk tahap keputusan.</p>
+<p><strong>Ringkasan.</strong> Syarat umum pengajuan pinjaman online meliputi identitas sah, usia, nomor ponsel aktif, rekening bank pribadi, alamat domisili, bukti penghasilan, serta persetujuan kebijakan privasi. Tambahan seperti NPWP, swafoto, atau email aktif bisa memperlancar proses.</p>
+<p><em>Disclaimer:</em> Artikel ini untuk tujuan edukasi, bukan penawaran pinjaman. Syarat bisa berbeda antar penyelenggara, jadi selalu baca syarat resmi di aplikasi atau situs penyedia layanan.</p>
+",
       "video": ""
     },
     {
@@ -182,6 +233,7 @@
   ]
 
 }
+
 
 
 
