@@ -57,7 +57,7 @@
       "wortise_app_open_id": "test-app-open",
       "interstitial_ad_interval": 5,
       "native_ad_index": 1,
-      "native_ad_interval": 6,
+      "native_ad_interval": 5,
       "native_ad_style": "medium",
       "native_ad_post_details_position": "top",
       "show_banner_ad_home": true,
@@ -78,53 +78,13 @@
       "id": 1,
       "name": "Apps",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/category/apps.png"
-    },
-    {
-      "id": 2,
-      "name": "Game",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/category/game.png"
-    },
-    {
-      "id": 3,
-      "name": "OS",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/category/os.png"
-    },
-    {
-      "id": 4,
-      "name": "Coding",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/category/programming.png"
-    },
-    {
-      "id": 5,
-      "name": "Mods",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/category/mods.png"
-    },
-    {
-      "id": 6,
-      "name": "How To",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/category/how-to.png"
-    },
-    {
-      "id": 7,
-      "name": "Tips & Trick",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/category/tips-trick.png"
-    },
-    {
-      "id": 8,
-      "name": "Lifestyle",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/category/lifestyle.png"
-    },
-    {
-      "id": 9,
-      "name": "Android",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/category/android.png"
     }
   ],
   "posts": [
     {
       "id": 1,
       "category": "",
-      "title": "Free Fire",
+      "title": "Free Fire Encode Json merupakan metode pengubahan bentuk data url json",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/posts/free-fire.jpg",
       "content": "https://raw.githubusercontent.com/solodroidev/content/uploads/html/guide/free-fire.html",
       "video": ""
@@ -216,28 +176,11 @@
       "title": "Guide Json",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/thumbnail.png",
       "url": "https://aliendro.id/solodroid-guide-json-android-news-app-191"
-    },
-    {
-      "id": 2,
-      "title": "Stream Json",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/thumbnail.png",
-      "url": "https://aliendro.id/solodroid-stream-json-live-tv-video-streaming-197"
-    },
-    {
-      "id": 3,
-      "title": "WebView Json",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/thumbnail.png",
-      "url": "https://aliendro.id/solodroid-webview-json-android-webview-app-207"
-    },
-    {
-      "id": 4,
-      "title": "Wallpaper Json",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/thumbnail.png",
-      "url": "https://aliendro.id/solodroid-wallpaper-json-android-wallpaper-app-212"
     }
   ]
 
 }
+
 
 
 
