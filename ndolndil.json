@@ -3,8 +3,8 @@
     {
       "status": true,
       "redirect_url": "",
-      "privacy_policy_url": "https://karepmudeveloper.blogspot.com/2025/06/privacy-policy.html",
-      "email_feedback_and_report": "eratelprima27@gmail.com",
+      "privacy_policy_url": "",
+      "email_feedback_and_report": "",
       "webview_cache": true,
       "post_list_in_large_style": false,
       "show_post_list_header": true,
@@ -617,6 +617,7 @@
   ]
 
 }
+
 
 
 
