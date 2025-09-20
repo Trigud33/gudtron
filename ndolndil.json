@@ -11,7 +11,7 @@
       "show_post_detail_image": true,
       "show_post_detail_title": true,
       "show_post_detail_category": true,
-      "show_related_posts": true,
+      "show_related_posts": false,
       "enable_rtl_mode": false,
       "enable_exit_dialog": true,
       "enable_dark_mode_as_default_theme": false
@@ -57,7 +57,7 @@
       "wortise_app_open_id": "test-app-open",
       "interstitial_ad_interval": 3,
       "native_ad_index": 1,
-      "native_ad_interval": 8,
+      "native_ad_interval": 5,
       "native_ad_style": "medium",
       "native_ad_post_details_position": "top",
       "show_banner_ad_home": true,
@@ -277,6 +277,7 @@
     }
   ]
 }
+
 
 
 
