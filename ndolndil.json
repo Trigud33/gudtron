@@ -240,6 +240,14 @@
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/posts/pubg.jpg",
       "content": "https://raw.githubusercontent.com/solodroidev/content/uploads/html/guide/pubg.html",
       "video": ""
+    },
+    {
+      "id": 16,
+      "category": "Tips & Trick16",
+      "title": "Awaken: Chaos Era: The complete Reroll guide and tips",
+      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/posts/chaos-era.jpg",
+      "content": "https://raw.githubusercontent.com/solodroidev/content/uploads/html/guide/chaos-era.html",
+      "video": ""
     }
   ],
   "more_apps": [
@@ -269,6 +277,7 @@
     }
   ]
 }
+
 
 
 
