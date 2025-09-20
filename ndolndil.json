@@ -208,7 +208,7 @@
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/posts/money-order.jpg",
       "content": "https://raw.githubusercontent.com/solodroidev/content/uploads/html/guide/money-order.html",
       "video": ""
-       },
+    },
     {
       "id": 12,
       "category": "How To, Lifestyle",
@@ -244,7 +244,7 @@
     {
       "id": 16,
       "category": "Tips & Trick",
-      "title": "Awaken16",
+      "title": "16Awaken: Chaos Era: The complete Reroll guide and tips",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/posts/chaos-era.jpg",
       "content": "https://raw.githubusercontent.com/solodroidev/content/uploads/html/guide/chaos-era.html",
       "video": ""
@@ -277,6 +277,7 @@
     }
   ]
 }
+
 
 
 
