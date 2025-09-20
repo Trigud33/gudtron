@@ -160,7 +160,7 @@
     },
     {
       "id": 10,
-      "category": "Info",
+      "category": "Tips",
       "title": "Faktor yang Dipertimbangkan Penyedia Sebelum Menyetujui Pinjaman Online",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/posts/faktor-penilaian.jpg",
       "content": "<p><strong>Faktor yang Dipertimbangkan Penyedia Sebelum Menyetujui Pinjaman Online</strong></p><p>Penyedia pinjaman online tidak asal menyetujui semua pengajuan. Ada beberapa faktor yang mereka pertimbangkan sebelum memberi keputusan.</p><p><strong>1. Validitas data & dokumen</strong><br>Jika data tidak konsisten atau dokumen buram, sistem bisa menolak otomatis.</p><p><strong>2. Riwayat kredit</strong><br>Penyedia mengecek BI Checking/SLIK OJK untuk melihat catatan kreditmu. Jika ada tunggakan, kemungkinan ditolak besar.</p><p><strong>3. Stabilitas penghasilan</strong><br>Slip gaji atau mutasi rekening menjadi acuan apakah penghasilan cukup untuk menutup cicilan.</p><p><strong>4. Rasio utang terhadap penghasilan</strong><br>Total cicilan yang sehat adalah 30–35% dari penghasilan. Lebih dari itu dianggap berisiko.</p><p><strong>5. Nominal & tenor pinjaman</strong><br>Pengajuan yang terlalu besar atau tenor tidak sesuai profil bisa menurunkan peluang persetujuan.</p><p><strong>Ringkasan</strong>: penyedia menilai kelayakan dari data pribadi, riwayat kredit, penghasilan, dan rasio utang. Ajukan sesuai kemampuan agar lebih mudah disetujui.</p><p><em>Disclaimer: Artikel ini hanya untuk edukasi, bukan penyedia atau penawaran pinjaman.</em></p>",
@@ -200,7 +200,7 @@
     },
     {
       "id": 15,
-      "category": "Info",
+      "category": "Tips",
       "title": "Checklist Lengkap Sebelum Mengajukan Pinjaman Online Pertama Kali",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/posts/checklist-pengajuan.jpg",
       "content": "<p><strong>Checklist Lengkap Sebelum Mengajukan Pinjaman Online Pertama Kali</strong></p><p>1. Tentukan tujuan pinjaman dengan jelas.<br>2. Hitung kebutuhan riil, jangan berlebihan.<br>3. Cek kemampuan bayar, pastikan cicilan ≤ 35% penghasilan.<br>4. Pilih aplikasi legal terdaftar OJK.<br>5. Siapkan dokumen: KTP, rekening pribadi, bukti penghasilan.<br>6. Baca syarat & ketentuan, pahami biaya & denda.<br>7. Gunakan simulasi cicilan.<br>8. Pastikan data konsisten.<br>9. Pilih tenor sesuai arus kas.<br>10. Siapkan dana darurat.<br>11. Hindari mengajukan ke banyak aplikasi sekaligus.<br>12. Cek ulasan aplikasi di toko resmi.<br>13. Pastikan keamanan data pribadi.</p><p><strong>Ringkasan</strong>: dengan checklist ini, proses pengajuan akan lebih aman dan peluang persetujuan lebih besar.</p><p><em>Disclaimer: Artikel ini hanya untuk edukasi, bukan penyedia atau penawaran pinjaman.</em></p>",
@@ -224,6 +224,7 @@
     }
   ]
 }
+
 
 
 
