@@ -436,6 +436,22 @@
 <p><em>Disclaimer:</em> Artikel ini hanya untuk tujuan edukasi, bukan penyedia atau penawaran pinjaman.</p>  
 ",
       "video": ""
+},
+    {
+      "id": 11,
+      "category": "OS, Apps",
+      "title": "How 11",
+      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/posts/android.jpg",
+      "content": "file:///android_asset/how-to-build-your-own-custom-android-rom.html",
+      "video": ""
+    },
+    {
+      "id": 12,
+      "category": "Apps",
+      "title": "How 12",
+      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/posts/ios.jpg",
+      "content": "https://raw.githubusercontent.com/solodroidev/content/uploads/html/guide/ios.html",
+      "video": ""
     }
   ],
   "more_apps": [
@@ -465,6 +481,7 @@
     }
   ]
 }
+
 
 
 
