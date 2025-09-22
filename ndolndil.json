@@ -22,10 +22,10 @@
       "ad_status": true,
       "main_ad": "admob",
       "backup_ad": "alien",
-      "admob_banner_unit_id": "ca-app-pub-3940256099942544/9214589741",
-      "admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
-      "admob_native_unit_id": "ca-app-pub-3940256099942544/2247696110",
-      "admob_app_open_unit_id": "ca-app-pub-3940256099942544/9257395921",
+      "admob_banner_unit_id": "ca-app-pub-2332133364305931/2267940538",
+      "admob_interstitial_unit_id": "ca-app-pub-2332133364305931/2561252872",
+      "admob_native_unit_id": "ca-app-pub-2332133364305931/6820309508",
+      "admob_app_open_unit_id": "ca-app-pub-2332133364305931/8777324784",
       "ad_manager_banner_unit_id": "/6499/example/banner",
       "ad_manager_interstitial_unit_id": "/6499/example/interstitial",
       "ad_manager_native_unit_id": "/6499/example/native",
@@ -55,19 +55,19 @@
       "wortise_interstitial_id": "test-interstitial",
       "wortise_native_id": "test-native",
       "wortise_app_open_id": "test-app-open",
-      "interstitial_ad_interval": 2,
+      "interstitial_ad_interval": 4,
       "native_ad_index": 1,
       "native_ad_interval": 6,
       "native_ad_style": "medium",
       "native_ad_post_details_position": "top",
-      "show_banner_ad_home": true,
+      "show_banner_ad_home": false,
       "show_banner_ad_post_details": true,
       "show_banner_ad_category_details": true,
       "show_banner_ad_search": true,
       "show_interstitial_ad_post_list": true,
       "show_interstitial_ad_post_details": true,
       "show_native_ad_post_list": true,
-      "show_native_ad_post_details": true,
+      "show_native_ad_post_details": false,
       "show_native_ad_exit_dialog": true,
       "show_open_ad_on_app_start": true,
       "show_open_ad_on_app_resume": true
@@ -224,6 +224,7 @@
     }
   ]
 }
+
 
 
 
