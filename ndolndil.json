@@ -20,8 +20,8 @@
   "ads": [
     {
       "ad_status": true,
-      "main_ad": "admob",
-      "backup_ad": "alien",
+      "main_ad": "fan",
+      "backup_ad": "admob",
       "admob_banner_unit_id": "ca-app-pub-2332133364305931/2267940538",
       "admob_interstitial_unit_id": "ca-app-pub-2332133364305931/2561252872",
       "admob_native_unit_id": "ca-app-pub-2332133364305931/6820309508",
@@ -33,9 +33,9 @@
       "alien_ads_banner_unit_id": "testing",
       "alien_ads_interstitial_unit_id": "testing",
       "alien_ads_native_unit_id": "testing",
-      "fan_banner_unit_id": "YOUR_PLACEMENT_ID",
-      "fan_interstitial_unit_id": "YOUR_PLACEMENT_ID",
-      "fan_native_unit_id": "YOUR_PLACEMENT_ID",
+      "fan_banner_unit_id": "1373234477542347_1373235560875572",
+      "fan_interstitial_unit_id": "1373234477542347_1373235770875551",
+      "fan_native_unit_id": "1373234477542347_1373236050875523",
       "startapp_app_id": "0",
       "unity_game_id": "4089993",
       "unity_banner_placement_id": "banner",
@@ -55,7 +55,7 @@
       "wortise_interstitial_id": "test-interstitial",
       "wortise_native_id": "test-native",
       "wortise_app_open_id": "test-app-open",
-      "interstitial_ad_interval": 4,
+      "interstitial_ad_interval": 3,
       "native_ad_index": 1,
       "native_ad_interval": 6,
       "native_ad_style": "medium",
@@ -224,6 +224,7 @@
     }
   ]
 }
+
 
 
 
